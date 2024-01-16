@@ -1,1 +1,2 @@
 Arquivo teste
+git add --all git
